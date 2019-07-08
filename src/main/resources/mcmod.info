@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "bloodarsenalvampirepatcher",
+    "name": "Blood Arsenal Vampire Patcher",
+    "description": "Allows the Vampire Costume from Blood Arsenal to be made year round. About 4 years too late",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["UvMidnight"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
